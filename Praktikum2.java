@@ -9,8 +9,8 @@ public class Praktikum2{
         int ntgs, nuts, nuas;
         double pntgs, pnuts, pnuas, na;
         
-        nim  = "A11.2017.10707";
-        nama = "Galuh Ajeng Prameswari";
+        nim     = "A11.2017.10707";
+        nama    = "Galuh Ajeng Prameswari";
         ntgs    = 80;
         nuts    = 90;
         nuas    = 87;
